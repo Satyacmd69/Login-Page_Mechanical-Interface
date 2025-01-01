@@ -30,28 +30,40 @@ To get started with the **Login-Page Mechanical Interface**:
 ### 1️⃣ Clone this repository
 ```bash
 git clone https://github.com/Satyacmd69/Login-Page-Mechanical-Interface.git
+```
 
-### 🛠 Install Dependencies
+### 2️⃣ Install Dependencies
 If you’re working locally, make sure you have Visual Studio Code (VS Code) installed, along with a browser to test the page. Simply clone the repository, and you're good to go!
 
-### 🚀 Launch the Project
+### 3️⃣ Launch the Project
 Open `index.html` in your browser, and voilà! You’re ready to explore the project.
 
-🧩 How to Contribute
+## 🧩 How to Contribute
+
 Feel free to fork this repo and contribute to it! 😊 Whether it's fixing bugs, adding features, or improving the design, your contributions are welcome.
 
-Fork this repository.
-Clone your fork to your local machine.
-Create a new branch for your changes (git checkout -b feature-name).
-Commit your changes (git commit -m 'Add some feature').
-Push your branch to your fork (git push origin feature-name).
-Create a pull request.
-🔄 License
+1. Fork this repository.
+2. Clone your fork to your local machine.
+3. Create a new branch for your changes:
+   ```bash
+   git checkout -b feature-name
+   ```
+4. Commit your changes:
+   ```bash
+   git commit -m 'Add some feature'
+   ```
+5. Push your branch to your fork:
+   ```bash
+   git push origin feature-name
+   ```
+6. Create a pull request.
+
+## 🔄 License
+
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
-👋 Let's Connect!
+## 👋 Let's Connect!
+
 If you like this project or have any questions, feel free to reach out! Let's make the web more interactive, one page at a time. 😊
 
 Happy Coding! ✨
-
-Now the "Install Dependencies" section is properly included within the rest of the code! Let me know if you need anything else!
