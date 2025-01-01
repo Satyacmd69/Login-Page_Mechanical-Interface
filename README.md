@@ -29,8 +29,7 @@ To get started with the **Login-Page Mechanical Interface**:
 
 ### 1️⃣ Clone this repository
 ```bash
-git clone https://github.com/Satyacmd69/Login-Page-Mechanical-Interface.git
-
+git clone https://github.com/Satyacmd69/Login-Page-Mechanical-Interface.git ```
 
 ### **2️⃣ Install Dependencies
 If you’re working locally, make sure you have Visual Studio Code (VS Code) installed, along with a browser to test the page. Simply open the index.html file in your preferred browser.
